@@ -1,5 +1,5 @@
 {
-  "version": 2,
+  "version": 3,
   "status": true,
   "data": [
     {
@@ -23,12 +23,12 @@
       "translation": "Our Lord, accept this from us. Indeed, You are the All-Hearing, the All-Knowing.",
       "reference": "Quran 2:127"
     },
-  {
-    "id": 4,
-    "title": "Dua for Increase in Knowledge",
-    "arabic": "رَّبِّ زِدْنِى عِلْمًۭا",
-    "translation": "My Lord, increase me in knowledge.",
-    "reference": "Quran 20:114"
-  }
+    {
+      "id": 4,
+      "title": "Dua During Hajj & Umrah",
+      "arabic": "رَبَّنَآ ءَاتِنَا فِى ٱلدُّنْيَا حَسَنَةًۭ وَفِى ٱلْـَٔاخِرَةِ حَسَنَةًۭ وَقِنَا عَذَابَ ٱلنَّارِ",
+      "translation": "Our Lord, grant us good in this world and good in the Hereafter, and protect us from the punishment of the Fire.",
+      "reference": "Quran 2:201"
+    }
   ]
 }
