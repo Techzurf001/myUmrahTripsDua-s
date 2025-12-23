@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 2,
   "status": true,
   "data": [
     {
@@ -15,6 +15,20 @@
       "arabic": "رَبِّ ٱغْفِرْ لِى",
       "translation": "My Lord, forgive me",
       "reference": "Quran 7:151"
-    }
+    },
+    {
+    "id": 3,
+    "title": "Dua for Mercy",
+    "arabic": "رَّبِّ ارْحَمْهُمَا كَمَا رَبَّيَانِى صَغِيرًۭا",
+    "translation": "My Lord, have mercy upon them as they brought me up when I was small.",
+    "reference": "Quran 17:24"
+  },
+  {
+    "id": 4,
+    "title": "Dua for Increase in Knowledge",
+    "arabic": "رَّبِّ زِدْنِى عِلْمًۭا",
+    "translation": "My Lord, increase me in knowledge.",
+    "reference": "Quran 20:114"
+  }
   ]
 }
